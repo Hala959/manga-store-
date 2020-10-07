@@ -4,7 +4,7 @@
 ##### Project Name
 
 Manga store 
-## https://ibb.co/XSFZxzr
+
 ##### Overview:
 
 kharbsha is 
