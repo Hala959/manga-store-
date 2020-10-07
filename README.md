@@ -1,15 +1,17 @@
+
 ## Description
 
 ##### Project Name
 
-Managa Store 
-
+Manga store 
+## https://ibb.co/XSFZxzr
 ##### Overview:
- It is a shop for my fans of manga books and magazines readers
+
+kharbsha is 
 
 ##### Prototype:
 
-### https://xd.adobe.com/view/f9e94755-a107-47f2-5eff-8026c76a7639-8fd8/
+### https://xd.adobe.com/view/d08527dd-dfb9-4ada-be98-150784bf508b-85d6/
 
 ##### Technical Used:
 
@@ -20,26 +22,53 @@ The website is connected to our online Database on MongoDb which all user data i
 - REACT
 - Node.js
 - P5
-- Firebase realtime database
 - custom API
 - Bootstrap
 
-##### Packages Used:
 
-admin-bro, admin-bro-expressjs, admin-bro-mongoose, axios, bcrypt, bcryptjs, bootstrap,
-cookie-parser, cors, express, express-formidable, express-session, jsonwebtoken, jwt decode, mongoose, mongoose-autopopulate, react-bootstrap, firebase, jquery, p5, react-dom, react-scripts.
+# #2ed Day : Wednesday 6-5-2020
+
+## #Start Planning
+
+## 1- Try To Imagine The ER diagram and the Relationship between them
+
+### #ER diagram
+
+![ER](img/ER1.PNG)
+
+## 2- Visitor Home Page
+
+
+![Home](img/Home.PNG)
+![signup](img/signup.png)
+![Login](img/Login.png)
+
+
+
+
 
 ##### User Stories:
 
 - User can be able to Create an account and login.
 - User can be able to view the home page.
-- User can be able to add your cart 
- -User can be able to purchase by cridt cord or Pay for delivery
-  
+  ![Home Page](images/game3.PNG)
+- User can be able to create a private room to invite specific players.
+  ![session Page](images/game2.PNG)
+- User can be able to view personal profile and score.
+- User can be able to Delet item from cart 
+- User has a turn to draw a chosen word from three options and visualized it in a specific time.
+- User can type his/her guess into the chat box to gain points.
+  ![Game Page](images/game1.PNG)
 
 ##### Future improvements
 
-- update desing 
-- fix gaps code 
-- chat online 
+- Users can join random open sessions.
+- Host can add a custom word list.
+- More design for the game page.
 
+##### Team members:
+
+- Edrees Alyamani
+- Ibrahim Ahmed
+- Ibtihal Alotaibi
+- Halah Al-yanbawi
