@@ -7,7 +7,7 @@ Manga store
 
 ##### Overview:
 
-Manga Store  is is a shop for my fans of manga books and magazines readers
+Manga Store  is  a shop for my fans of manga books and magazines readers
 
 ##### Prototype:
 
