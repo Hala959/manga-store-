@@ -7,7 +7,7 @@ Manga store
 
 ##### Overview:
 
-kharbsha is 
+Manga Store  is is a shop for my fans of manga books and magazines readers
 
 ##### Prototype:
 
