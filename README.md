@@ -52,4 +52,4 @@ The website is connected to our online Database on MongoDb which all user data i
 - User can be able to Create an account and login.
 - User can be able to view the home page.
 - User can be able to Delet item from cart 
-
+- user can be able to purchase by credit card or pay on delivery
